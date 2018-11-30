@@ -34,7 +34,7 @@ html{
   margin-bottom: 20px;
 }
 
-p{
+a, p{
   font-size: 25px;
   font-family: Georgia, sans-serif;
   line-height: 50px;
